@@ -14,4 +14,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/index.tsx`. The page auto-updates as you edit the file.
+```
+## Output Images of the Code
+
+![Carousel](/public/Screen%20Shot%202024-03-24%20at%201.02.02%20AM.png)
+![Carousel](/public/Screen%20Shot%202024-03-24%20at%201.02.20%20AM.png)

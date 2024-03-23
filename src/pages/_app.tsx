@@ -2,6 +2,7 @@ import '@/styles/globals.css';
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import { Metadata } from 'next';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const metadata: Metadata = {
   title: 'Project',
