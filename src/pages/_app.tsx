@@ -1,7 +1,13 @@
 import '@/styles/globals.css';
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
-import { metadata } from '.';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Project',
+  description: 'carousel using swiper library',
+};
+
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
