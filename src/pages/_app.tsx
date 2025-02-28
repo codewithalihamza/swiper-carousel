@@ -9,7 +9,6 @@ export const metadata: Metadata = {
   description: 'carousel using swiper library',
 };
 
-
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <div>
